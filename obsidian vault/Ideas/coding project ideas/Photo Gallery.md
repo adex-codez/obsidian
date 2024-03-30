@@ -1,0 +1,3 @@
+In this project users can sign in to have a personalized experience, upload images, to upload files the user can drag & drop the image to the browser or import from their pcs, they can share the images on social media, the image is persisted on a database, for an image to be upload able it must be lower than 60kb , if the image is uploaded and it is bigger than the recommended size the image would be compressed and if the image is still bigger than the recommended size we deny the image from being uploaded, the user can create an album of photos and can delete pictures. 
+
+Completed thin

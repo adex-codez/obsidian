@@ -1,0 +1,1 @@
+When designing a new feature, expect it to hard to build. Design the smallest  useful version you can ship.

@@ -1,0 +1,2 @@
+To get all the possible rational zeros the formula is p / q
+Where p is the factors of the constant term in the polynomial function and q is the factors of the leading coefficient of the polynomial functions, if the constant term and the leading coefficient are more than 1 use the each factors of the constant to divide the factors of the leading coefficient.

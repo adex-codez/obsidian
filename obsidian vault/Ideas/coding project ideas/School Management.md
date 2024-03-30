@@ -1,0 +1,1 @@
+This app is for my mom's school to help her keep track of her students and 

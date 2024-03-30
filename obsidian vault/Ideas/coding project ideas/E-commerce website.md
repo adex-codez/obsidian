@@ -1,0 +1,1 @@
+This is an ecommerce website for buying sneakers from different brands.
